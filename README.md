@@ -12,13 +12,13 @@ LSAMP, is a 10-week summer research program at University at Buffalo funded by t
 
 ## Important Due Dates
 
-**Today is 06/14/2022** 
 
-| Wed 6/15 | research question (either draft or final) |
+| Date | Assignment |
 | --- | --- |
+| Wed 6/15 | research question (either draft or final) |
 | Wed 6/22 | abstract draft |
-| Wed 6/29 | final abstract (hard copy signed by mentor)
-oral presentation draft #1 (submit to UBLearns) |
+| Wed 6/29 | final abstract (hard copy signed by mentor) |
+| Wed 6/29 | oral presentation draft #1 (submit to UBLearns) |
 | Wed 7/6 | poster draft #1 (submit to UBLearns) |
 | Fri 7/8 | oral presentation draft #2 (submit to UBLearns) |
 | Fri 7/15 | poster draft #2 (submit to UBLearns) |
