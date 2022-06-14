@@ -31,9 +31,9 @@ View the better formatted version on my personal website - https://matthaynes.su
 
 [Blockchain-based Planetary Level Autonomous Systems](Blockchain-based%20Planetary%20Level%20Autonomous%20System.md)
 
-[Uniswap v3 ](Uniswap%20v3.md)
+[Uniswap v3](Uniswap%20v3.md)
 
-[Intro to DeFi](DeFi.md)
+[DeFi](DeFi.md)
 
 [Smart Contracts](Smart%20Contracts.md)
 
