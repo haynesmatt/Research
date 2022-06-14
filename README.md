@@ -4,6 +4,8 @@ This is a collection of all my research for LSAMP Summer 2022, including project
 
 LSAMP, is a 10-week summer research program at University at Buffalo funded by the National Science Foundation. My research is supervised by Dr. Bina Ramamurthy.
 
+View the better formatted version on my personal website - https://matthaynes.super.site/research
+
 ## For My Project
 
 [Research Brainstorming](Research%20Brainstorming.md)
@@ -31,7 +33,7 @@ LSAMP, is a 10-week summer research program at University at Buffalo funded by t
 
 [Uniswap v3 ](Uniswap%20v3.md)
 
-[Intro to DeFi](Intro%20to%20DeFi.md)
+[Intro to DeFi](DeFi.md)
 
 [Smart Contracts](Smart%20Contracts.md)
 
