@@ -6,9 +6,9 @@ LSAMP, is a 10-week summer research program at University at Buffalo funded by t
 
 ## For My Project
 
-[Research Brainstorming](Research%20Brainstorming%204b2f2a20502a48e5b45a1c2554f3d7d3.md)
+[Research Brainstorming](Research%20Brainstorming.md)
 
-[References](References%2074c3a3d23d8a49d6838f357358c0fc11.md)
+[References](References.md)
 
 ## Important Due Dates
 
@@ -27,14 +27,14 @@ LSAMP, is a 10-week summer research program at University at Buffalo funded by t
 
 ## My Notes
 
-[Blockchain-based Planetary Level Autonomous Systems](Blockchain-based%20Planetary%20Level%20Autonomous%20System%207acb6c2ad0824c17ba0ea58f0b280acd.md)
+[Blockchain-based Planetary Level Autonomous Systems](Blockchain-based%20Planetary%20Level%20Autonomous%20System.md)
 
-[Uniswap v3 ](Uniswap%20v3%20263925ade73946c29c23e1dd6cad6523.md)
+[Uniswap v3 ](Uniswap%20v3.md)
 
-[Intro to DeFi](Intro%20to%20DeFi%206aceca244b274a4a90f6780bae4d9f5b.md)
+[Intro to DeFi](Intro%20to%20DeFi.md)
 
-[Smart Contracts](Smart%20Contracts%2018ee6e997b97451c966c3a42b4ccbc60.md)
+[Smart Contracts](Smart%20Contracts.md)
 
-[Decentralized Exchanges (DEXs)](Decentralized%20Exchanges%20(DEXs)%202ae013293e4a4c0cb2461c42dc48714c.md)
+[Decentralized Exchanges (DEXs)](Decentralized%20Exchanges%20(DEXs)%20.md)
 
-[Vocabulary](Vocabulary%2079255576cd6c477c99966ab7f6c17bec.md)
+[Vocabulary](Vocabulary%20.md)
