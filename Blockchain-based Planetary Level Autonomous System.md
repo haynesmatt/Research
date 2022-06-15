@@ -126,35 +126,35 @@ Bina Ramamurthy, CSE Department, University at Buffalo
 
 </aside>
 
-- The Solution:
-    - Verification mechanism
-        - Used to **verify plastics** in the bins have right **amount & type** of plastics
-        - If not, bin of plastics will get **rejected**
-        - Every time bin gets verified, message is sent to the patron organization; user gets rewarded with a [micropayment](https://www.notion.so/Vocabulary-5b7672b421554ae1a183b76a73eb3da8) through a [channel](https://www.notion.so/Blockchain-based-Planetary-Level-Autonomous-Systems-d1296cfceed9413c97e1ab8103fad3f8) from the patron to the worker
-    - Payment mechanism
-        - Could be many micropayments to a worker in a single collection session
-        - Micropayment = sum of all previous micropayments added to the current one, thus:
-            - Continually **increasing**
-            - Accounting for work completed
-            - Prevents double-spending / cashing the same payment more than once
-        - Cash-out at the last bin of the day through **one on-chain** **transaction** **(Tx)**, instead of each bin collection
-            - This way, the single Tx request is for value of final micropayment
-                - Remember, Tx holds the accumulated value of micropayments of the day
-    - Channel mechanism
-        - Channel is closed after payment is made
-            - Could also be open in an alternative design, but this way **helps prevent double-spending**
-        - New channel gets created
-        - Process repeated for each worker
-- The Diagram
-    - Notes:
-        - Smart contract is deployed with `constructor()` (on-chain)
-        - `claimPayment()` notes end of session (on-chain)
-        - Everything else in between is off-chain and repeats until session ends
-        - Read from top to bottom
-        
-        ![Sequence Diagram – Planetary Level Autonomous System MPC](mpc_diagram.png)
-        
-        Sequence Diagram – Planetary Level Autonomous System MPC
+### The Solution:
+- Verification mechanism
+    - Used to **verify plastics** in the bins have right **amount & type** of plastics
+    - If not, bin of plastics will get **rejected**
+    - Every time bin gets verified, message is sent to the patron organization; user gets rewarded with a [micropayment](https://www.notion.so/Vocabulary-5b7672b421554ae1a183b76a73eb3da8) through a [channel](https://www.notion.so/Blockchain-based-Planetary-Level-Autonomous-Systems-d1296cfceed9413c97e1ab8103fad3f8) from the patron to the worker
+- Payment mechanism
+    - Could be many micropayments to a worker in a single collection session
+    - Micropayment = sum of all previous micropayments added to the current one, thus:
+        - Continually **increasing**
+        - Accounting for work completed
+        - Prevents double-spending / cashing the same payment more than once
+    - Cash-out at the last bin of the day through **one on-chain** **transaction** **(Tx)**, instead of each bin collection
+        - This way, the single Tx request is for value of final micropayment
+            - Remember, Tx holds the accumulated value of micropayments of the day
+- Channel mechanism
+    - Channel is closed after payment is made
+        - Could also be open in an alternative design, but this way **helps prevent double-spending**
+    - New channel gets created
+    - Process repeated for each worker
+### The Diagram
+- Notes:
+    - Smart contract is deployed with `constructor()` (on-chain)
+    - `claimPayment()` notes end of session (on-chain)
+    - Everything else in between is off-chain and repeats until session ends
+    - Read from top to bottom
+
+    ![Sequence Diagram – Planetary Level Autonomous System MPC](mpc_diagram.png)
+
+    Sequence Diagram – Planetary Level Autonomous System MPC
         
 
 ## Summary
