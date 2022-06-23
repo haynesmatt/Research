@@ -18,7 +18,8 @@ View the better formatted version on my personal website - https://matthaynes.su
 | Date | Assignment |
 | --- | --- |
 | Wed 6/15 | research question (either draft or final) |
-| Wed 6/22 | abstract draft |
+| Thur 6/23 | abstract draft #1 (submit to UBLearns) |
+| Sun 6/26 | abstract draft #2 (submit to UBLearns) |
 | Wed 6/29 | final abstract (hard copy signed by mentor) |
 | Wed 6/29 | oral presentation draft #1 (submit to UBLearns) |
 | Wed 7/6 | poster draft #1 (submit to UBLearns) |
