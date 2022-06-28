@@ -9,6 +9,8 @@ View the better formatted version on my personal website - https://matthaynes.su
 ## For My Project
 [Abstract](Abstract.md)
 
+[Oral Presentation](Oral%20Presentation.md)
+
 [Research Brainstorming](Research%20Brainstorming.md)
 
 [References](References.md)
