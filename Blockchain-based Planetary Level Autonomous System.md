@@ -109,7 +109,7 @@ Bina Ramamurthy, CSE Department, University at Buffalo
         - **The micropayment channel is the side channel**
         - Gets info gets updated to the payment channel once transaction is complete
         
-        ![Relationship between Micropayment Side Channel & Main Channel / Chain](micropayment_channels.png)
+        ![Relationship between Micropayment Side Channel & Main Channel / Chain](img/micropayment_channels.png)
         
         Relationship between Micropayment Side Channel & Main Channel / Chain
         
@@ -152,7 +152,7 @@ Bina Ramamurthy, CSE Department, University at Buffalo
     - Everything else in between is off-chain and repeats until session ends
     - Read from top to bottom
 
-    ![Sequence Diagram – Planetary Level Autonomous System MPC](mpc_diagram.png)
+    ![Sequence Diagram – Planetary Level Autonomous System MPC](img/mpc_diagram.png)
 
     Sequence Diagram – Planetary Level Autonomous System MPC
         
