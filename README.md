@@ -1,6 +1,6 @@
 # Research
 
-This is a collection of all my research for LSAMP Summer 2022, including project formulation due dates, notes, etc. Everything about my research will constantly be added here throughout the duration of the program.
+This is a collection of all my research for LSAMP Summer 2022, including project presentations, due dates, notes, etc. Everything about my research will constantly be added here throughout the duration of the program.
 
 [LSAMP](https://beta.nsf.gov/funding/opportunities/louis-stokes-alliances-minority-participation) is a 10-week summer research program at University at Buffalo funded by the National Science Foundation. My research is supervised by Dr. Bina Ramamurthy.
 
